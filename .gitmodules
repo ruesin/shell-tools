@@ -1,0 +1,3 @@
+[submodule "sshx"]
+	path = sshx
+	url = git@github.com:metmit/sshx.git
